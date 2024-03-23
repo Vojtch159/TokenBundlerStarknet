@@ -5,7 +5,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "deploy": "node deploy"
+    "deploy": "node deploy",
+    "deploy_devnet": "node deploy_devnet"
   },
   "author": "",
   "license": "ISC",
